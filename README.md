@@ -27,15 +27,20 @@ A full inference workflow was developed to:
 ## Project Structure
 
 Stable_diffusion_custom_sampling/
+
 ┣ custom_diffusion_sampling.ipynb
+
 ┣ outputs/
+
 ┣ README.md
+
 ┣ requirements.txt
 
 ## How to Run the Project
 
 1. Clone this repository:
 git clone https://github.com/LordAmadeus1/Stable_diffusion_custom_sampling.git
+
 cd Stable_diffusion_custom_sampling
 
 2. Install the required dependencies:
