@@ -39,12 +39,12 @@ Stable_diffusion_custom_sampling/
 ## How to Run the Project
 
 1. Clone this repository:
-git clone https://github.com/LordAmadeus1/Stable_diffusion_custom_sampling.git
+  git clone https://github.com/LordAmadeus1/Stable_diffusion_custom_sampling.git
 
-cd Stable_diffusion_custom_sampling
+  cd Stable_diffusion_custom_sampling
 
 2. Install the required dependencies:
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 3. Open the notebook:
 - Launch `custom_diffusion_sampling.ipynb` in Google Colab or a local Jupyter environment.
