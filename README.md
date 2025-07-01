@@ -39,11 +39,13 @@ Stable_diffusion_custom_sampling/
 ## How to Run the Project
 
 1. Clone this repository:
+   
   git clone https://github.com/LordAmadeus1/Stable_diffusion_custom_sampling.git
 
   cd Stable_diffusion_custom_sampling
 
 2. Install the required dependencies:
+   
   pip install -r requirements.txt
 
 3. Open the notebook:
@@ -51,6 +53,9 @@ Stable_diffusion_custom_sampling/
 - Run each cell sequentially to reproduce the sampling workflow and image generation process.
 
 ## Results
+
+![avocado_vg](https://github.com/user-attachments/assets/3ae79fbd-0f59-4c56-9c57-d3a3b42526fa)
+
 
 The notebook successfully generates images conditioned by text prompts using a custom denoising loop with Classifier-Free Guidance.  
 Intermediate images are saved every 10 denoising steps in the `/outputs/` folder, allowing visualization of the progressive latent denoising process.
