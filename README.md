@@ -34,7 +34,7 @@ Stable_diffusion_custom_sampling/
 
 ┣ README.md
 
-┣ requirements.txt
+└── requirements.txt
 
 ## How to Run the Project
 
